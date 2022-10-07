@@ -1,0 +1,15 @@
+/home/user/Документы/обучение/examples/dz2/file15/bin/Debug/net6.0/file2
+/home/user/Документы/обучение/examples/dz2/file15/bin/Debug/net6.0/file2.deps.json
+/home/user/Документы/обучение/examples/dz2/file15/bin/Debug/net6.0/file2.runtimeconfig.json
+/home/user/Документы/обучение/examples/dz2/file15/bin/Debug/net6.0/file2.dll
+/home/user/Документы/обучение/examples/dz2/file15/bin/Debug/net6.0/file2.pdb
+/home/user/Документы/обучение/examples/dz2/file15/obj/Debug/net6.0/file2.csproj.AssemblyReference.cache
+/home/user/Документы/обучение/examples/dz2/file15/obj/Debug/net6.0/file2.GeneratedMSBuildEditorConfig.editorconfig
+/home/user/Документы/обучение/examples/dz2/file15/obj/Debug/net6.0/file2.AssemblyInfoInputs.cache
+/home/user/Документы/обучение/examples/dz2/file15/obj/Debug/net6.0/file2.AssemblyInfo.cs
+/home/user/Документы/обучение/examples/dz2/file15/obj/Debug/net6.0/file2.csproj.CoreCompileInputs.cache
+/home/user/Документы/обучение/examples/dz2/file15/obj/Debug/net6.0/file2.dll
+/home/user/Документы/обучение/examples/dz2/file15/obj/Debug/net6.0/refint/file2.dll
+/home/user/Документы/обучение/examples/dz2/file15/obj/Debug/net6.0/file2.pdb
+/home/user/Документы/обучение/examples/dz2/file15/obj/Debug/net6.0/file2.genruntimeconfig.cache
+/home/user/Документы/обучение/examples/dz2/file15/obj/Debug/net6.0/ref/file2.dll
